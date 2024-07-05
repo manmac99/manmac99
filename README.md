@@ -14,7 +14,7 @@
 
 ## 🏃‍♀️ Work Experience
 - Samsung Electronics DS, Memory Division, S/W Development Team (Intern, 2024.03.04 ~ 2024.06.21)
-  - SSD Firmware Development(c++), FTL Seminar, SSD performance predict WebSite Development(React)
+  - SSD Firmware Development(c++), FTL Seminar, SSD performance Prediction WebSite Development(React)
 
 ## ⛓ Projects
 - [SookSook - Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with LG Pra.L Medihair](https://github.com/SEproject-Medihair) - Web Backend(NodeJS)
