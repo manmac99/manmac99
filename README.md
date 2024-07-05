@@ -3,7 +3,7 @@
   
 <h2> Hi, I'm Jinwoo Park </h2> 
   
-  I'm a junior software engineer who I am a junior developer interested in embedded systems. <br>
+  I'm a junior software engineer who is interested in embedded systems. <br>
   
 
  
