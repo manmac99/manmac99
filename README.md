@@ -27,6 +27,6 @@
 - [SookSook - Hair loss care software using Efficientnet-B0 and ChatGPT-4.0 with LG Pra.L Medihair](https://github.com/SEproject-Medihair) - Web Backend(NodeJS)
 - [5_stage_MIPS_Pipeline - Verilog](https://github.com/manmac99/5_stage_MIPS_Pipeline) - Computer Architecture project
 - [Baseball game with win8051 - Assembly](https://github.com/manmac99/Microprocessor_Final_Project) - Microprocessor Project
-- [Uyeontour - Full stack](https://uyeontour.ngrok.io/) - 우연투어 Web Full stack - Frontend(Flutter)/Backend(NodeJS)
+- [Uyeontour - Full stack](https://uyeontour.ngrok.io/) - 우연투어 Frontend(Flutter)/Backend(NodeJS)
 
 </div>
