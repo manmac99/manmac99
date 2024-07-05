@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**manmac99/manmac99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+<h2> Hi, I'm Jinwoo Park </h2> 
+  
+  I'm a junior software engineer who I am a junior developer interested in embedded systems. <br>
+  
 
-Here are some ideas to get you started:
+ 
+</div>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 About me
+- Hanyang Univ., Seoul, Korea 
+- Information System(Main Major) 
+- Electronical Engineering(Double Major)
+- Autmotive Engineering(Minor Major)
+- Contact : jinwoo6814@gmail.com
+- Interests : Embedded System, Linux kernel, FTL
+- Programming Skills : c++, Assembly, Verilog
+
+## 🏃‍♀️ Work Experience
+- Samsung Electronics DS, Memory Division, S/W Development Team(Intern, 2024.03.04 ~ 2024.06.21)
+  
+
+</div>
