@@ -9,7 +9,7 @@
   - Electronical Engineering (Double Major)
   - Autmotive Engineering (Minor)
 - Contact : jinwoo6814@gmail.com
-- Interests : Embedded System, Linux kernel, FTL
+- Interests : Embedded System, Linux kernel, FTL, SDV
 - Programming Skills : C++, Assembly, Verilog
 
 ## 🏃‍♀️ Work Experience
