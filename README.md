@@ -16,7 +16,7 @@
 - Samsung Electronics DS, Memory Division, S/W Development Team (Intern, 2024.03.04 ~ 2024.06.21)
   - SSD Firmware Development(c++), FTL Seminar, SSD performance Prediction WebSite Development(React- Frontend)
 - Samsung Electronics DS, System.LSI Division, Connectivity Development Team (Intern, 2024.09.02 ~ 2024.12.20)
-  - Vehicle Component Development(UWB), Test Engineering, Verificate ASPICE standards
+  - Vehicle Component Development(UWB), ASPICE, Configuration Manager
 
 ## ⛓ Projects
 - [SookSook - Hair loss care software using Efficientnet-B0 and ChatGPT-3.5 with LG Pra.L Medihair](https://github.com/SEproject-Medihair) - Web Backend(NodeJS)
