@@ -6,8 +6,7 @@
 ## 👩🏻‍💻 About me
 - Hanyang Univ., Seoul, Korea 
   - Information System (Main Major) 
-  - Electronical Engineering (Double Major)
-  - Autmotive Engineering (Minor)
+  - Electronical Engineering (Minor)
 - Contact : jinwoo6814@gmail.com
 - Interests : Embedded System, Linux kernel, FTL, SDV
 - Programming Skills : C++, Assembly, Verilog
