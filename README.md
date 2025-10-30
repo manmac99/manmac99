@@ -16,7 +16,7 @@
   - SSD Firmware Development(C++), FTL Seminar, SSD performance Prediction WebSite Development(React- Frontend)
 - Samsung Electronics DS, System.LSI Division, Connectivity Development Team (Intern, 2024.09.02 ~ 2024.12.20)
   - Vehicle Component Development(UWB - C), ASPICE, Configuration Manager
-- HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING(KSOE), System Digital Division, Digital Solution Dept (Engineer, 2025.06.30 ~ now)
+- HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING(KSOE), System Digital Division, Digital Solution Dept (Engineer, 2025.06.30 ~ present)
   - Designed and verified electrical equipment and control systems for LNG Fuel Gas Supply System (FGSS)
 
 ## ⛓ Projects
