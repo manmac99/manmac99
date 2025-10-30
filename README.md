@@ -17,7 +17,7 @@
 - Samsung Electronics DS, System.LSI Division, Connectivity Development Team (Intern, 2024.09.02 ~ 2024.12.20)
   - Vehicle Component Development(UWB - C), ASPICE, Configuration Manager
 - HD KOREA SHIPBUILDING & OFFSHORE ENGINEERING(KSOE), System Digital Division, Digital Solution Dept (Engineer, 2025.06.30 ~ Present)
-  - Designed and verified electrical equipment and control systems for LNG Fuel Gas Supply System (FGSS)
+  - Design & verify electrical equipment and control systems for LNG Fuel Gas Supply System (FGSS)
 
 ## ⛓ Projects
 - [SookSook - Hair loss care software using Efficientnet-B0 and ChatGPT-3.5 with LG Pra.L Medihair](https://github.com/SEproject-Medihair) - Web Backend(NodeJS)
