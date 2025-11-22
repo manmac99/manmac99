@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Hi, I'm Jinwoo Park </h2> 
-  I'm a junior software engineer who is interested in embedded system & Software Defined Vehicle. <br>
+  I'm a junior software engineer who is interested in Software Defined Vehicle & Embedded System. <br>
 </div>
 
 ## 👩🏻‍💻 About me
